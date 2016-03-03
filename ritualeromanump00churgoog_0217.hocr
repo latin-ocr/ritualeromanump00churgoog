@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ritualeromanump00churgoog_0217.png"; bbox 0 0 2782 4696; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 530 282 864 348">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 530 282 864 348">
+     <span class='ocr_line' id='line_1_1' title="bbox 530 282 864 348; baseline -0.015 0"><span class='ocrx_word' id='word_1_1' title='bbox 530 282 651 348; x_wconf 76' lang='lat' dir='ltr'>Bituale</span> <span class='ocrx_word' id='word_1_2' title='bbox 675 283 864 346; x_wconf 83' lang='lat' dir='ltr'>Romanum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 263 1154 1061 1247">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 263 1154 1061 1247">
+     <span class='ocr_line' id='line_1_2' title="bbox 263 1154 1061 1247; baseline 0 -26"><span class='ocrx_word' id='word_1_3' title='bbox 263 1156 564 1247; x_wconf 59' lang='lat' dir='ltr'>1³3.D6.mine‚</span> <span class='ocrx_word' id='word_1_4' title='bbox 630 1154 1061 1222; x_wconf 61' lang='lat' dir='ltr'>amomacum-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 288 1575 1088 1661">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 288 1575 1088 1661">
+     <span class='ocr_line' id='line_1_3' title="bbox 288 1575 1088 1661; baseline 0.001 -21"><span class='ocrx_word' id='word_1_5' title='bbox 288 1575 837 1661; x_wconf 78' lang='lat' dir='ltr'><strong>um‚nolim0j11di</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1033 1576 1088 1641; x_wconf 68' lang='lat'>06-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 424 1995 1144 2079">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 424 1995 1144 2079">
+     <span class='ocr_line' id='line_1_4' title="bbox 424 1995 1144 2079; baseline 0.001 -19"><span class='ocrx_word' id='word_1_7' title='bbox 424 2013 478 2060; x_wconf 65' lang='grc' dir='ltr'>τοι</span> <span class='ocrx_word' id='word_1_8' title='bbox 567 1995 670 2062; x_wconf 77' lang='lat' dir='ltr'><strong>nihil</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 725 1996 760 2063; x_wconf 81' lang='lat' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_10' title='bbox 845 1996 1144 2079; x_wconf 65' lang='lat' dir='ltr'><strong>mnium·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 201 2290 224 2352">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 201 2290 224 2352">
+     <span class='ocr_line' id='line_1_5' title="bbox 201 2290 224 2352; baseline 0 -2"><span class='ocrx_word' id='word_1_11' title='bbox 201 2290 224 2352; x_wconf 83' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1396 4696">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1396 4696">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1396 4696; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1396 4696; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
